@@ -1,6 +1,7 @@
 %% Generate a Random NMF problem
-% This is a script for tyring to generate random problem for evaluating NMF
-% algorithms on.
+% This is a script for showing how to use the various functison in this
+% repo.
+% Feel free to run it and see how some of the algorithms work!
 
 k = 25;
 m = 1000;
