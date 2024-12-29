@@ -16,3 +16,5 @@ available and leverage score sampling for SymNMF.
 The LAI-NMF implementations support a variety of algorithms for NMF and
 SymNMF using HALS and BPP update rules.
 For SymNMF the leverage scores sampling and PGNCG methods are also available.
+
+A sample of running these functions can be found in getNMF_Problem.m
